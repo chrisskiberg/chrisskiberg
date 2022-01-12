@@ -15,7 +15,7 @@ I am a 21 year old student at NTNU Trondheim currently pursuing a master's degre
 
 
 <h2>Get in touch</h2>
-<img src="images/LinkedIn_black.png" alt="LinkedIn" href="https://www.linkedin.com/in/christoffer-b-skiaker/" width="64px">
+<a href="https://www.linkedin.com/in/christoffer-b-skiaker/"><img  src="images/LinkedIn_black.png" alt="LinkedIn" width="64px" style="position:absolute;"></a>
 
 
 <!---
