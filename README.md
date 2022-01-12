@@ -4,17 +4,18 @@ I am a 21 year old student at NTNU Trondheim currently pursuing a master's degre
 
 
 <h2>Languages</h2>
-<div style="display: inline-block;float: left;display: flex;">
+<div style="display: inline-block; display: flex;">
 <img src="images/py.png" alt="Python" width="64px">
-<img src="images/cpp.png" alt="C++" width="55px">
-<img src="images/c.png" alt="C" width="55px">
+<img src="images/cpp.png" alt="C++" width="64px">
+<img src="images/c.png" alt="C" width="64px">
 <img src="images/JS.png" alt="JavsScript" width="64px">
-<img src="images/css.png" alt="css" width="64px">
-<img src="images/html.png" alt="html" width="64px">
+<img src="images/css.png" alt="CSS" width="64px">
+<img src="images/html.png" alt="HTML" width="64px">
 </div>
 
 
 <h2>Get in touch</h2>
+<img src="images/LinkedIn_black.png" alt="LinkedIn" href="https://www.linkedin.com/in/christoffer-b-skiaker/" width="64px">
 
 
 <!---
