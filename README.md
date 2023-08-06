@@ -3,8 +3,17 @@
 I am a 22-year-old student at NTNU Trondheim, currently pursuing a master’s degree in electronics engineering (year 5/5). On my GitHub, you will find personal projects as well as projects I have had for some of my university courses.
 
 
-<h2>Languages</h2> <div style=“display: flex; justify-content: space-between;”> <img src=“images/py.png” alt=“Python” width=“64px”> <img src=“images/cpp.png” alt=“C++” width=“64px”> <img src=“images/c.png” alt=“C” width=“64px”> <img src=“images/C_sharp.png” alt=“C_SHARP” width=“64px”> <img src=“images/JS.png” alt=“JavsScript” width=“64px”> <img src=“images/css.png” alt=“CSS” width=“64px”> <img src=“images/html.png” alt=“HTML” width=“64px”> <img src=“images/MATLAB.png” alt=“MATLAB” width=“64px”> </div>
-
+<h2>Languages</h2>
+<div style="display: inline-block; display: flex;">
+<div style="display: inline-block; margin-right: 10px;"><img src="images/py.png" alt="Python" width="64px"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/cpp.png" alt="C++" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/c.png" alt="C" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/C_sharp.png" alt="C_SHARP" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/JS.png" alt="JavsScript" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/css.png" alt="CSS" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/html.png" alt="HTML" width="64px" style="padding-right: 10px;"></div>
+<div style="display: inline-block; margin-right: 10px;"><img src="images/MATLAB.png" alt="MATLAB" width="64px"></div>
+</div>
 
 <h2>Get in touch</h2>
 <a href="https://www.linkedin.com/in/christoffer-b-skiaker/"><img  src="images/LinkedIn_black.png" alt="LinkedIn" width="64px" style="position:absolute;"></a>
