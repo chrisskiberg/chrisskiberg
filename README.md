@@ -5,14 +5,14 @@ I am a 22-year-old student at NTNU Trondheim, currently pursuing a master’s de
 
 <h2>Languages</h2>
 <div style="display: inline-block; display: flex;">
-<div style="display: inline-block; margin-right: 10px;"><img src="images/py.png" alt="Python" width="64px"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/cpp.png" alt="C++" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/c.png" alt="C" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/C_sharp.png" alt="C_SHARP" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/JS.png" alt="JavsScript" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/css.png" alt="CSS" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/html.png" alt="HTML" width="64px" style="padding-right: 10px;"></div>
-<div style="display: inline-block; margin-right: 10px;"><img src="images/MATLAB.png" alt="MATLAB" width="64px"></div>
+<img src="images/py.png" alt="Python" width="64px">
+<img src="images/cpp.png" alt="C++" width="64px" style="margin-right: 10px;">
+<img src="images/c.png" alt="C" width="64px" style="padding-right: 10px;">
+<img src="images/C_sharp.png" alt="C_SHARP" width="64px" style="padding-right: 10px;">
+<img src="images/JS.png" alt="JavsScript" width="64px" style="padding-right: 10px;">
+<img src="images/css.png" alt="CSS" width="64px" style="padding-right: 10px;">
+<img src="images/html.png" alt="HTML" width="64px" style="padding-right: 10px;">
+<img src="images/MATLAB.png" alt="MATLAB" width="64px">
 </div>
 
 <h2>Get in touch</h2>
