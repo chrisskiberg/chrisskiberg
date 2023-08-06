@@ -6,7 +6,7 @@ I am a 22-year-old student at NTNU Trondheim, currently pursuing a master’s de
 <h2>Languages</h2>
 <div style="display: inline-block; display: flex;">
 <img src="images/py.png" alt="Python" width="64px">
-<img src="images/cpp.png" alt="C++" width="64px" style="margin-right: 10px;">
+<img src="images/cpp.png" alt="C++" width="64px" style="margin-right: 100px;">
 <img src="images/c.png" alt="C" width="64px" style="padding-right: 10px;">
 <img src="images/C_sharp.png" alt="C_SHARP" width="64px" style="padding-right: 10px;">
 <img src="images/JS.png" alt="JavsScript" width="64px" style="padding-right: 10px;">
