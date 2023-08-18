@@ -1,6 +1,6 @@
 <h1>Hey, I'm Christoffer</h1>
 
-I am a 22-year-old student at NTNU Trondheim, currently pursuing a master’s degree in electronics engineering (year 5/5). On my GitHub, you will find personal projects as well as projects I have had for some of my university courses.
+I am a 23-year-old student at NTNU Trondheim, currently pursuing a master’s degree in electronics engineering (year 5/5). On my GitHub, you will find personal projects as well as projects I have had for some of my university courses.
 
 
 <h2>Languages</h2>
